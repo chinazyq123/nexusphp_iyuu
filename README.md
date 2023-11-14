@@ -2,7 +2,7 @@
 
 #### 介绍
 用于iyuu的合作站点初始验证  
-数据库依据NexusPHP v1.8.8
+数据库依据NexusPHP v1.8.8  
 参考[合作站点加入流程及用户验证签名算法](https://www.iyuu.cn/archives/491/)
 
 #### 测试站点
